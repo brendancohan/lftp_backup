@@ -3,7 +3,7 @@
 # FTP LOGIN
 HOST='ftp'
 USER='ftpu'
-PASSWORD='ftp'
+PASSWORD='ftpp'
 
 # SOURCE DIRECTORY
 REMOTE_DIR='/absolute/path/to/sauce'
